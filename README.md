@@ -1,5 +1,4 @@
 # dummy
 
-or not
-
-more stuff
+* or not
+* more stuff
